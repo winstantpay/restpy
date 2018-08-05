@@ -16,9 +16,6 @@ Clone this repository then get started right away
 
 ### Quick start
 
-```bash
-pip install zeep
-```
 >Please note that you need a pre-shared key to use the API. 
 >This key is sometimes still called a caller-id (We are transitioning that naming convention) to a more modern term
 >
