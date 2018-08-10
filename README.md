@@ -1,6 +1,6 @@
 # winstantpay-restpy
 
-![The WinstantPay Logo](http://www.winstantpay.com/assets/img/logo-winstantpay-L-notag-trans.png "The WinstantPay Logo")
+![The WinstantPay Logo](https://www.winstantpay.com/imgs/logo-78.png "The WinstantPay Logo")
 
 These are the Python examples for using the WorldKYC and WinstantPay REST APIs
 
@@ -28,15 +28,6 @@ Clone this repository then get started right away
 
 After you have all you credentials please follow the following steps (explained in section **Examples** below
 
-## Basic Flow of the API
-## To get a wallet 
-### KYC first
-Head right to the [Demo](https://demo.winstantpay.com/) platform and complete your KYC first.
-To complete your KYC you only need a working email address you can access. 
-After successful subscription to KYC your user credentials will be added to the system and you can login to the wallet. 
-After that, please send us an email so we can creaate a caller-id for you and your all set to go and use this API.
-
-
 ## Wallet Demo
 
 https://demoewallet.winstantpay.com/
@@ -51,6 +42,10 @@ WinstantPay API example scripts are released under the MIT license.
 
 
 
+On Solidus - A Wallet - have to link - provide WPAYID 
+On Solidus - No Wallet - Do WorldKYC - and get a wallet  
+Brand new - Do the worldflow
+------------------------------------------------------------
 
 
 

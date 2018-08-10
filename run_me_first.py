@@ -78,7 +78,7 @@ def registerClient(requirement_id: int, requirements: json ,client: json) -> jso
 #
 def handleStep(requirements_id: int, requirements: json ,url: str ) -> int:
 
-    client: json = readData(2)
+    client: json = readData(0)
 
     newKYCClient:json = registerClient(requirements_id, requirements, client)
 
