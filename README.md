@@ -42,11 +42,4 @@ WinstantPay API example scripts are released under the MIT license.
 
 
 
-On Solidus - A Wallet - have to link - provide WPAYID 
-On Solidus - No Wallet - Do WorldKYC - and get a wallet  
-Brand new - Do the worldflow
-------------------------------------------------------------
-
-
-
 
