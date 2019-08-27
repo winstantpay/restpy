@@ -34,7 +34,7 @@ https://demoewallet.winstantpay.com/
 
 ## Support
 
-Support for the WinstantPay API is available through the WinstantPay API team. We will share the details about how to interact with our teams at the end of the KYC process.  Should you have pUiany issues before that you can send a twitter message to us to <api@winstantpay.com>
+Support for the WinstantPay API is available through the WinstantPay API team. We will share the details about how to interact with our teams at the end of the KYC process.  Should you have any issues before that you can send an email message to us to <api@winstantpay.com>
 
 ## License
 
